@@ -1,0 +1,2 @@
+Skriver lite text i fil.txt
+Skriver mer text
